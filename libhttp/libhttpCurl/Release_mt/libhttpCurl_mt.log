@@ -1,0 +1,74 @@
+﻿  stdafx.cpp
+  ChannelServerMgr.cpp
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(958): warning C4003: “max”宏的实参不足
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(964): warning C4003: “min”宏的实参不足
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(965): warning C4003: “max”宏的实参不足
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(982): warning C4003: “max”宏的实参不足
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(983): warning C4003: “max”宏的实参不足
+E:\code\client-win-base\public\util\util.hpp(56): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\util.hpp(81): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\ICString.hpp(292): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\ICString.hpp(311): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\ICString.hpp(620): warning C4244: “return”: 从“time_t”转换到“int”，可能丢失数据
+E:\code\client-win-base\public\util\ICString.hpp(682): warning C4244: “初始化”: 从“uintmax_t”转换到“int”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(107): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+E:\code\client-win-base\public\include\FsAPI.hpp(154): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+E:\code\client-win-base\public\include\FsAPI.hpp(198): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+E:\code\client-win-base\public\include\FsAPI.hpp(308): warning C4244: “初始化”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(314): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(335): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(404): warning C4244: “初始化”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(410): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(431): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(483): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+E:\code\client-win-base\public\util\CenterInfo.hpp(228): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\CenterInfo.hpp(246): warning C4018: “<”: 有符号/无符号不匹配
+  CHTTPResponse.cpp
+  CLogPrint.cpp
+  HTTPCore.cpp
+HTTPCore.cpp(212): warning C4018: “<”: 有符号/无符号不匹配
+  HTTPDownload.cpp
+E:\code\client-win-base\public\util\util.hpp(56): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\util.hpp(81): warning C4018: “<”: 有符号/无符号不匹配
+  HTTPRequest.cpp
+HTTPRequest.cpp(84): warning C4244: “初始化”: 从“curl_off_t”转换到“int”，可能丢失数据
+  HTTPUpload.cpp
+E:\code\client-win-base\public\util\util.hpp(56): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\util.hpp(81): warning C4018: “<”: 有符号/无符号不匹配
+  libhttpCurl.cpp
+E:\code\client-win-base\public\util\util.hpp(56): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\util.hpp(81): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\ICString.hpp(292): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\ICString.hpp(311): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\ICString.hpp(620): warning C4244: “return”: 从“time_t”转换到“int”，可能丢失数据
+E:\code\client-win-base\public\util\ICString.hpp(682): warning C4244: “初始化”: 从“uintmax_t”转换到“int”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(107): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+E:\code\client-win-base\public\include\FsAPI.hpp(154): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+E:\code\client-win-base\public\include\FsAPI.hpp(198): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+E:\code\client-win-base\public\include\FsAPI.hpp(308): warning C4244: “初始化”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(314): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(335): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(404): warning C4244: “初始化”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(410): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(431): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+E:\code\client-win-base\public\include\FsAPI.hpp(483): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(958): warning C4003: “max”宏的实参不足
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(964): warning C4003: “min”宏的实参不足
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(965): warning C4003: “max”宏的实参不足
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(982): warning C4003: “max”宏的实参不足
+E:\code\client-win-base\public\rapidjson-1.1.0\rapidjson/document.h(983): warning C4003: “max”宏的实参不足
+E:\code\client-win-base\public\util\CenterInfo.hpp(228): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\client-win-base\public\util\CenterInfo.hpp(246): warning C4018: “<”: 有符号/无符号不匹配
+libhttpCurl.cpp(145): warning C4244: “=”: 从“curl_off_t”转换到“unsigned int”，可能丢失数据
+libhttpCurl.cpp(146): warning C4244: “=”: 从“curl_off_t”转换到“unsigned int”，可能丢失数据
+libhttpCurl.cpp(153): warning C4244: “=”: 从“curl_off_t”转换到“unsigned int”，可能丢失数据
+libhttpCurl.cpp(154): warning C4244: “=”: 从“curl_off_t”转换到“unsigned int”，可能丢失数据
+libhttpCurl.cpp(183): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+libhttpCurl.cpp(246): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+libhttpCurl.cpp(447): warning C4018: “<”: 有符号/无符号不匹配
+libhttpCurl.cpp(465): warning C4018: “<”: 有符号/无符号不匹配
+  dllmain.cpp
+  正在替换 Release_mt\stdafx.obj
+  libhttpCurl_mt.vcxproj -> E:\code\client-win-base\Release_mt\libhttpCurl_mt.lib
+  copy E:\code\client-win-base\Release_mt\libhttpCurl_mt.lib ..\..\lib\libhttpCurl_mt.lib /y
+  已复制         1 个文件。
